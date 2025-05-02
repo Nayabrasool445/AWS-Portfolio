@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+my-aws-creds.txt
+vscode-user.pem
+vscode-user.ppk
+my-aws-creds.txt
+*.tfstate.backup
+*.tfstate
+.terraform.lock.hcl
+.terraform.lock.hcl
