@@ -61,4 +61,22 @@ Built as part of an AWS freelancing portfolio to showcase Terraform and cloud in
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/e1085d23-de5a-4829-a6b7-8a65581f50ea)
+![image (7)](https://github.com/user-attachments/assets/b9c9e09d-d8c1-416d-a35b-38b90a799041)
+
+![image (2)](https://github.com/user-attachments/assets/f42737bb-c7bc-4742-9828-7b6045a6ab79)
+
+![image (1)](https://github.com/user-attachments/assets/33238fe6-424f-4f5d-a25a-10d4241b66aa)
+
+![image (9)](https://github.com/user-attachments/assets/d946aca7-9f51-4546-ac0a-17732a4068bb)
+
+![image](https://github.com/user-attachments/assets/a9dac025-5e7f-4750-a954-fad0c7ad18be)
+
+![image (8)](https://github.com/user-attachments/assets/985c71ad-3d7b-48f3-8571-ae87e55bc6f4)
+
+![image (6)](https://github.com/user-attachments/assets/4697ce3a-c322-41cf-a926-b0832a02d961)
+
+![image (5)](https://github.com/user-attachments/assets/ce2feaed-ae76-40db-b5c9-7debc8dc0846)
+
+![image (4)](https://github.com/user-attachments/assets/4818954f-fb4f-4549-979f-6c1e58ff4eac)
+
+![image (3)](https://github.com/user-attachments/assets/de621d9f-1579-43b3-b5ec-26457944f5e7)
