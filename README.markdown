@@ -56,3 +56,10 @@ This setup is ideal for:
 
 ## Author
 Built as part of an AWS freelancing portfolio to showcase Terraform and cloud infrastructure skills.
+
+
+## Screenshots
+
+## Screenshot
+
+![App Screenshot](images/image*)
