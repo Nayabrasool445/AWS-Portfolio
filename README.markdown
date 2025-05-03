@@ -50,8 +50,7 @@ This setup is ideal for:
 - Demonstrating infrastructure-as-code skills for freelancing or job applications.
 
 ## Future Improvements
-- Add a private subnet with a NAT Gateway for enhanced security.![image (7)](https://github.com/user-attachments/assets/fcd8d9e6-955f-456f-85f1-55f1846d0c97)
-
+- Add a private subnet with a NAT Gateway for enhanced security.
 - Integrate an S3 bucket for static file storage.
 - Deploy a load balancer for high availability.
 
