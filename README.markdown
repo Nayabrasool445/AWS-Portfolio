@@ -50,7 +50,8 @@ This setup is ideal for:
 - Demonstrating infrastructure-as-code skills for freelancing or job applications.
 
 ## Future Improvements
-- Add a private subnet with a NAT Gateway for enhanced security.
+- Add a private subnet with a NAT Gateway for enhanced security.![image (7)](https://github.com/user-attachments/assets/fcd8d9e6-955f-456f-85f1-55f1846d0c97)
+
 - Integrate an S3 bucket for static file storage.
 - Deploy a load balancer for high availability.
 
@@ -60,3 +61,4 @@ Built as part of an AWS freelancing portfolio to showcase Terraform and cloud in
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/e1085d23-de5a-4829-a6b7-8a65581f50ea)
