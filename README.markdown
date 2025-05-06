@@ -10,6 +10,8 @@ The Terraform configuration creates:
 - **Route Table**: Directs traffic from the subnet to the Internet Gateway.
 - **Security Group**: Allows HTTP (port 80) and SSH (port 22) traffic.
 - **EC2 Instance**: A `t2.micro` instance running Amazon Linux 2023, serving a "Hello World" webpage via Apache.
+- **S3 Bucket**: A bucket configured for static website hosting, serving a publicly accessible static webpage.
+
 
 ## Prerequisites
 - **Terraform**: Version 1.5+ installed.
@@ -37,6 +39,9 @@ The Terraform configuration creates:
 5. Access the EC2 instance:
    - Open the public IP (`http://<public-ip>`) in a browser to see the "Hello World" webpage.
    - SSH into the instance: `ssh -i my-key-pair.pem ec2-user@<public-ip>`.
+6. Access the S3 static webpage:
+   - Use the S3 website URL (e.g., http://<bucket-name>.s3-website-<region>.amazonaws.com) to view the static webpage.
+
 
 ## Screenshots
 - **VPC Configuration**: [Add screenshot of VPC in AWS Console]
@@ -79,3 +84,9 @@ Built as part of an AWS freelancing portfolio to showcase Terraform and cloud in
 ![image (4)](https://github.com/user-attachments/assets/4818954f-fb4f-4549-979f-6c1e58ff4eac)
 
 ![image (3)](https://github.com/user-attachments/assets/de621d9f-1579-43b3-b5ec-26457944f5e7)
+
+![image](https://github.com/user-attachments/assets/9768941e-7583-471c-a130-8508ae06e371)
+
+![image (1)](https://github.com/user-attachments/assets/fdd6ca67-ef38-4766-bd66-0c6114f47460)
+
+![image (2)](https://github.com/user-attachments/assets/50c87ca7-a4c5-4098-bf68-a1eed2bac3f8)
