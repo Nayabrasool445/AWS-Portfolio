@@ -22,3 +22,8 @@ output "security_group_name" {
   description = "The name of the Security Group"
   value       = aws_security_group.Public_ec2_sg.name
 }
+
+output "s3_bucket_name" {
+  description = "The name of the S3 Bucket"
+  value       = aws_s3_bucket.migration_s3_bucket.bucket
+}
