@@ -11,6 +11,10 @@ The Terraform configuration creates:
 - **Security Group**: Allows HTTP (port 80) and SSH (port 22) traffic.
 - **EC2 Instance**: A `t2.micro` instance running Amazon Linux 2023, serving a "Hello World" webpage via Apache.
 - **S3 Bucket**: A bucket configured for static website hosting, serving a publicly accessible static webpage.
+  
+
+![AWS Architecture - EC2 + S3 Static Hosting](https://github.com/user-attachments/assets/3654966f-1ad9-4c7d-99c2-62f2208776cc)
+
 
 
 ## Prerequisites
