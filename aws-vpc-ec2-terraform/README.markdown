@@ -13,7 +13,8 @@ The Terraform configuration creates:
 - **S3 Bucket**: A bucket configured for static website hosting, serving a publicly accessible static webpage.
   
 
-![AWS Architecture - EC2 + S3 Static Hosting](https://github.com/user-attachments/assets/3654966f-1ad9-4c7d-99c2-62f2208776cc)
+![AWS Architecture - EC2 + S3 Static Hosting](https://github.com/user-attachments/assets/3524fd71-3252-4766-9ca7-5270e98a7166)
+
 
 
 
